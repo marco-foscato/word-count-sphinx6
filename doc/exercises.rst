@@ -1,6 +1,6 @@
 
 
-Exercises (documentation lesson)
+Exercises (documentation lesson BLABLABL)
 ================================
 
 Before you start
